@@ -42,7 +42,7 @@
 
 <p align="left">
 <a href ="mailto:imdevaes@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 </a>
 <a href ="https://www.linkedin.com/in/dev-ace-103076220/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
