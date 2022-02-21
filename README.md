@@ -2,9 +2,9 @@
 
 # I'm Dev Ace 👋
 
-## Software and Web Developer 🇵🇭
+<p>Software and Web Developer 🇵🇭</p>
 
-### 📌 About Me
+## 📌 About Me
 
 - 📌 I am currenlty working on some capstone projects.
 
@@ -14,7 +14,7 @@
 
 - 📫 Let's connect **imdevaes@gmail.com**
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -29,6 +29,12 @@
 <img align="left" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
