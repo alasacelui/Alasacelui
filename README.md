@@ -1,6 +1,6 @@
 ![image](https://github.com/alasacelui/alasacelui/blob/main/images/php.gif)
 
-# Hi there, I'm Dev Ace 👋
+# I'm Dev Ace 👋
 
 ## Software and Web Developer 🇵🇭
 
@@ -28,9 +28,9 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img align="left" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 
+<br/>
 <br/>
 
 ---
@@ -41,11 +41,11 @@
 
 <br/>
 
-## Connect with me:
+## Let's collaborate 🔥
 
 <p align="left">
 <a href ="mailto:imdevaes@gmail.com">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
 </a>
 <a href ="https://www.linkedin.com/in/dev-ace-103076220/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -54,6 +54,6 @@
    <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
 </a>
 <a href ="https://www.facebook.com/im.dev.aes">
-    <img src="https://img.icons8.com/cotton/64/000000/facebook-messenger--v4.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
 </a>
 </p>
