@@ -27,7 +27,6 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img align="left" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <br/>
 <br/>
