@@ -1,4 +1,4 @@
-![image](https://github.com/alasacelui/alasacelui/blob/main/images/php.gif)
+![image](https://github.com/dev-aes/dev-aes/blob/main/images/php.gif)
 
 # I'm Dev Ace 👋
 
@@ -34,9 +34,9 @@
 
 ---
 
-[![Dev Ace's GitHub stats](https://github-readme-stats.vercel.app/api?username=alasacelui&show_icons=true&theme=vue-dark)](https://github.com/alasacelui/github-readme-stats)
+[![Dev Ace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aes&show_icons=true&theme=vue-dark)](https://github.com/dev-aes/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alasacelui)](https://github.com/alasacelui/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aes)](https://github.com/dev-aes/github-readme-stats)
 
 <br/>
 
