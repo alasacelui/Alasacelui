@@ -1,6 +1,6 @@
 ![image](https://github.com/dev-aes/dev-aes/blob/main/images/php.gif)
 
-# I'm Dev Ace 👋
+# I'm Dev 👋
 
 <p>Software and Web Developer 🇵🇭</p>
 
@@ -10,7 +10,7 @@
 
 - 📌 Planning to learn DEV OPS & Native App Development.
 
-- 📌 You can find my recent projects here **[Portfolio](https://dev-ace.netlify.app/)**
+- 📌 You can find my recent projects here **[Portfolio](https://dev.netlify.app/)**
 
 - 📫 Let's connect **imdevaes@gmail.com**
 
